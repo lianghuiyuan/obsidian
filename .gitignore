@@ -1,0 +1,5 @@
+# 忽略上传Mr.L目录
+Mr.L/
+
+# 忽略上传.DS_Store
+.DS_Store

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mr.L/第6章：纵横/有感而发/见字如面.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mr.L/第6章：纵横/有感而发/见字如面.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mr.L/第6章：纵横/有感而发/见字如面.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mr.L/第6章：纵横/有感而发/见字如面.md"
+                "file": "README.md"
               }
             }
           },
@@ -159,20 +159,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "86af9713454f432a",
+  "active": "fd5d99c8c707ec39",
   "lastOpenFiles": [
     "Mr.L/SUMMARY.md",
-    "conflict-files-obsidian-git.md",
+    "Mr.L/SUMMARY 2.md",
+    "Mr.L/README.md",
+    "README.md",
     "Mr.L/第6章：纵横/有感而发/见字如面.md",
+    "conflict-files-obsidian-git.md",
     "Mr.L/第3章：Daily/2022/2022计划.md",
     "Mr.L/第3章：Daily/2022/计划落实.md",
-    "Mr.L/README.md",
     "Excalidraw/Drawing 2022-12-03 15.15.16.excalidraw.md",
-    "第7章：问题汇总/README.md",
-    "SUMMARY 2.md",
-    "SUMMARY.md"
+    "第7章：问题汇总/README.md"
   ]
 }

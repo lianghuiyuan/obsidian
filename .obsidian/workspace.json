@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e93dffd0c8b0b535",
+        "id": "31b8a18f9aebf63d",
         "type": "tabs",
         "children": [
           {
-            "id": "738aeac6b540d417",
+            "id": "a2c9382bfcb813f9",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "fd5d99c8c707ec39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ea216204a1a31de1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,12 +152,28 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fd5d99c8c707ec39",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "a2c9382bfcb813f9",
   "lastOpenFiles": [
+    "README.md",
+    "2023-11-24.md",
     "Mr.L/SUMMARY.md",
     "Mr.L/SUMMARY 2.md",
     "Mr.L/README.md",
-    "README.md",
     "Mr.L/第6章：纵横/有感而发/见字如面.md",
     "conflict-files-obsidian-git.md",
     "Mr.L/第3章：Daily/2022/2022计划.md",

@@ -639,5 +639,3 @@ https://github.com/nodeca/pako/blob/master/LICENSE
  * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
  */
 /** @license URI.js v4.4.1 (c) 2011 Gary Court. License: http://github.com/garycourt/uri-js */
-
-/* nosourcemap */

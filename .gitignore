@@ -9,3 +9,7 @@ Mr.L/
 
 # Ignore Smart Environment folder
 .smart-env
+
+
+# Ignore obsidian folder
+.obsidian

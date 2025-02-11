@@ -1,0 +1,5 @@
+{
+  "format": "[metaTrader5操作日报]（YYYY-MM-DD）",
+  "folder": "metaTrader5/操作日报",
+  "template": "templates/metaTrader5操作日报模版"
+}

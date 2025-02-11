@@ -3,3 +3,9 @@ Mr.L/
 
 # 忽略上传.DS_Store
 .DS_Store
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env

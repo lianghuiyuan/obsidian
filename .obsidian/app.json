@@ -1,3 +1,5 @@
 {
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "attachments"
 }
